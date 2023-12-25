@@ -9,3 +9,4 @@ As you progress, the sequence becomes longer and more challenging.
 
 ## Technologies Used
 - **CSS:** Custom styling is implemented using CSS to create an aesthetically pleasing design.
+- **JavaScript:** Enables dynamic functionality and interactive features, enhancing user experience.
